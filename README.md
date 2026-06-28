@@ -59,4 +59,6 @@ Password-Security-Checker/
 ## 👨‍💻 Author
 
 **Rishav Kumar**
-BCA 2nd Year Student | Cybersecurity Learner
+Rishav Kumar
+
+BCA Student | Aspiring SOC Analyst | Cybersecurity Enthusiast
