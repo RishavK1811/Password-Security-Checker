@@ -53,11 +53,10 @@ Password-Security-Checker/
 * Common Password Detection
 * Password Generator
 * Save Report to File
-* Desktop GUI Version (Tkinter)
 
 ---
 
 ## 👨‍💻 Author
 
 **Rishav Kumar**
-BCA Student | Cybersecurity Learner
+BCA 2nd Year Student | Cybersecurity Learner
